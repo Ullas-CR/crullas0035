@@ -1,2 +1,3 @@
 # crullas0035
-first github repository
+first GitHub repository
+not having clarity on how to finish this repository 
